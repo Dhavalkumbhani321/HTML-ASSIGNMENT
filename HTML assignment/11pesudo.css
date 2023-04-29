@@ -1,0 +1,8 @@
+p {
+    font-weight: bold;
+}
+
+a:link {
+    color: maroon;
+    text-decoration-color: blue;
+}
